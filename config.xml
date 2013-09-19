@@ -8,7 +8,8 @@
         Bert Verhelst
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
-    <preference name="permissions" value="none" />
+  <plugin name="File" value="org.apache.cordova.FileUtils" />
+  <plugin name="FileTransfer" value="org.apache.cordova.FileTransfer" />
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="true" />
