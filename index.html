@@ -4,21 +4,24 @@
     <title>RegexRenamer</title>
     <link href="css/reset.css" rel="stylesheet" />
     <link href="css/screen.css" rel="stylesheet" />
+    <meta name="viewport" content="user-scalable=no,width=device-width" />
 </head>
 <body>
-    <input id="regexSearch" name="regexSearch" type="text" placeholder="Search for"/>
-    <input id="regexReplace" name="regexReplace" type="text" placeholder="Replace by" />
+    <input id="regexSearch" name="regexSearch" type="text" placeholder="Search for" value=".*([0-9]+).*\.mp3" />
+    <input id="regexReplace" name="regexReplace" type="text" placeholder="Replace by" value="Beyond_Exile_$1.mp3" />
     <input id="btnPreview" type="button" value="preview" />
-    <ul>
-        <li>..</li>
-        <li class="folder"><span>folder1</span></li>
-        <li class="folder"><span>folder2</span></li>
-        <li class="file"><span>file1</span></li>
-        <li class="file"><span>file2</span></li>
-    </ul>
-    <input id="btnRename" type="button" value="Rename"/>
 
-    <script src="phonegap.js"></script>
+    <div id="driveViewScroller">
+        <ul id="driveView">
+            <li>loading...</li>
+        </ul>
+    </div>
+
+    <input id="btnRename" type="button" value="Rename" />
+
+    <script src="cordova.js"></script>
+    <script src="js/iscroll.js"></script>
+    <script src="js/jquery.js"></script>
     <script src="js/index.js"></script>
 </body>
 </html>

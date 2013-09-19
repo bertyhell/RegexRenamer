@@ -7,42 +7,42 @@
     overflow: hidden;
 }
 
-body{
+body {
     padding: 5px;
 }
 
-label, ul, input{
+label, #driveViewScroller, input {
     position: absolute;
     left: 5px;
     right: 5px;
     border: 0;
-    margin:0;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-input{
+input {
     height: 40px;
     padding: 0 0 0 5px;
 }
 
-#regexReplace{
+#regexReplace {
     top: 50px;
 }
 
-input[type="button"]{
+input[type="button"] {
+    height: 50px;
     position: absolute;
     bottom: 5px;
     background-color: #000;
     color: #ccc;
-
 }
 
-input[type="text"]{
+input[type="text"] {
     right: 95px;
 }
 
-#btnPreview{
+#btnPreview {
     top: 5px;
     width: 85px;
     right: 5px;
@@ -50,23 +50,56 @@ input[type="text"]{
     left: auto;
 }
 
-ul{
+#driveViewScroller {
     top: 95px;
-    bottom: 50px;
+    bottom: 60px;
     background-color: #999;
     padding: 2px;
+    overflow: hidden;
 }
 
-li{
+li {
+    position: relative;
     list-style: none;
     background-color: #717171;
     height: 40px;
-    width: 100%;
+    width: 83%;
     margin: 0 0 2px 0;
-    padding: 2px;
+    padding: 4px 0 0 40px;
     box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-position: 6px 6px;
+    overflow: hidden;
 }
 
-li:first-child{
-    line-height: 40px;
-}
+    li:first-child {
+        line-height: 40px;
+    }
+
+    li.folder {
+        background-image: url('../img/folder.png');
+    }
+
+    li.file {
+        background-image: url('../img/file.png');
+    }
+
+    li > span{
+        float: left;
+        width: 100%;
+        white-space: nowrap;
+    }
+
+    /*li > span {
+        position: absolute;
+        top: 4px;
+        left: 40px;
+        right: 8px;
+        height: 17px;
+        float: left;
+        overflow: hidden;
+    }
+
+        li > span + span {
+            top: 19px;
+        }*/
