@@ -2,14 +2,14 @@
 <widget id="nr.co.bert.regexrenamer" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>RegexRenamer</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Batch rename files on your device using regular expressions
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="verhelstbert@gmail.com" href="http://bert.co.nr">
+        Bert Verhelst
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
     <preference name="permissions" value="none" />
-    <preference name="orientation" value="default" />
+    <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
