@@ -1,0 +1,99 @@
+RIM-COD-SHA1-9: 78 7c 98 d1 02 4a c0 44 e0 18 52 e7 ac 65 1e 45 af 6e b6 df
+RIM-COD-SHA1-8: f0 a5 78 7b 06 1e 0a 24 4e 48 be 65 1c 00 4d 83 92 05 0d a8
+RIM-COD-SHA1-7: a8 82 15 7b 72 16 9b 5f 1a aa 36 dc 69 9f 14 13 fd 72 ee 71
+RIM-COD-SHA1-6: f4 b0 04 8b a4 1a 28 6b 4b 09 99 e7 2b a4 95 7e 5b 4b 28 3d
+RIM-COD-SHA1-5: 2a 36 58 81 ef 49 b9 a6 9c 01 e8 2c 02 ec 6a 20 12 d1 cd f1
+RIM-COD-Size-26: 65452
+RIM-COD-SHA1-4: a6 b0 8e 44 a1 e8 3a 4e 6d f9 5b 6a 1a 9c 9e 41 1e 73 c8 5e
+RIM-COD-Size-25: 50224
+RIM-COD-SHA1-3: 04 61 76 6a 0c c6 c2 f7 3c ae bd bc 18 a8 46 78 83 63 9a 2b
+RIM-COD-Size-24: 57712
+RIM-COD-SHA1-2: 60 bd 9f ff 59 4f a5 fd 0f 55 07 63 0e 7b 25 21 e9 6d a7 d8
+RIM-COD-Size-23: 56444
+RIM-COD-SHA1-1: 25 8a 3b f8 8a ee a2 87 22 80 02 53 b3 dc 76 1c 13 5b b0 a1
+RIM-COD-Size-22: 40068
+RIM-COD-Size-21: 48884
+RIM-COD-Size-20: 45420
+RIM-COD-URL-19: RegexRenamer-19.cod
+RIM-COD-URL-18: RegexRenamer-18.cod
+RIM-COD-URL-17: RegexRenamer-17.cod
+RIM-COD-URL-16: RegexRenamer-16.cod
+RIM-COD-URL-15: RegexRenamer-15.cod
+RIM-COD-URL-14: RegexRenamer-14.cod
+RIM-COD-URL-13: RegexRenamer-13.cod
+RIM-COD-URL-12: RegexRenamer-12.cod
+RIM-COD-Size: 69512
+RIM-MIDlet-Icon-2-1: resources/icon_hover.png,focused
+RIM-COD-URL-11: RegexRenamer-11.cod
+RIM-MIDlet-Icon-Count-2: 1
+RIM-COD-URL-10: RegexRenamer-10.cod
+RIM-MIDlet-Icon-Count-1: 1
+MIDlet-Vendor: Bert Verhelst
+RIM-MIDlet-Icon-1-1: resources/icon_hover.png,focused
+Manifest-Version: 1.0
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-19: 37196
+RIM-COD-Size-18: 53608
+RIM-COD-Size-17: 50456
+RIM-COD-Size-16: 55480
+RIM-COD-Size-15: 26876
+RIM-COD-Size-14: 50228
+RIM-COD-Size-13: 50228
+RIM-COD-Size-12: 50228
+RIM-COD-Size-11: 50228
+RIM-COD-Size-10: 51772
+MIDlet-Version: 1.0.0
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-SHA1-26: 13 ee f3 df 3b b7 a6 3e a3 8f 55 ea ef dd 7d 4c f8 10 09 26
+RIM-COD-SHA1-25: 9d 3f 33 83 3b 12 ed 5a 3b c6 0d c0 c2 c0 ae fc 32 95 10 39
+RIM-COD-SHA1-24: d2 5b 37 b2 12 ba 5c 3e 63 0f 69 c4 47 14 85 e2 34 c7 6a 4c
+RIM-COD-SHA1-23: 8b d2 b7 bc 0a aa 27 7e e7 dd fa 22 22 21 6a e7 ef 90 71 dc
+RIM-COD-SHA1-22: b9 75 2c 40 67 4f 0f 5a bf eb 21 ef d9 1c 6e 87 62 7d 64 68
+RIM-COD-SHA1-21: 60 5a 6b 9c 95 c5 f6 c0 65 9c d6 b4 d6 be e5 c6 bc cb 95 70
+RIM-COD-SHA1-20: 34 a4 ae a6 e0 73 ec e5 78 1a 59 b6 c3 db e1 a9 8c c0 cb e2
+RIM-COD-URL: RegexRenamer.cod
+RIM-COD-Creation-Time: 1379635277
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: RegexRenamer.jar
+RIM-COD-SHA1-19: 85 4e eb d0 3d 08 ac ee 24 85 a9 20 a5 c6 45 83 86 c5 2f 5f
+RIM-COD-SHA1-18: 43 96 23 95 e0 d0 83 7f 08 7c 75 c3 fd 45 8f df ff d2 9c 77
+RIM-COD-SHA1-17: 57 81 91 bf 2f 8a 64 36 99 2e b4 b1 db f7 43 64 c3 45 c6 ab
+RIM-COD-SHA1-16: c6 be 06 39 87 ef 49 d3 b2 a4 59 2b 39 6c b4 29 e2 94 45 d0
+RIM-COD-SHA1-15: a0 66 81 79 10 6c 49 1f 3e 50 2b b3 7b 75 ac ff fb 30 b2 48
+RIM-COD-SHA1-14: 13 82 f4 c7 0e b5 a8 09 d9 a4 38 bb 33 d9 d5 e6 5a 3c c3 83
+RIM-COD-SHA1-13: 80 c8 74 58 9f ae 2f 9e 1e 7e 78 06 7e 23 49 b2 16 25 c4 67
+RIM-COD-SHA1-12: cd 38 9d 30 90 b1 b9 44 1b 73 00 25 91 f3 29 e0 9c 2c 85 25
+RIM-COD-Size-9: 65960
+RIM-COD-SHA1-11: 64 a3 e6 1a 1a d7 5e 56 a0 60 21 96 cf 33 28 01 f2 91 a5 bc
+RIM-COD-Size-8: 62568
+RIM-COD-SHA1-10: c2 dc d1 32 b5 ee 3a d7 c1 6e e9 01 e0 6b f8 45 f8 d5 8b 71
+RIM-COD-Size-7: 70456
+MIDlet-Description: Batch rename files on your device using regular expressions
+RIM-COD-Size-6: 64500
+RIM-COD-Size-5: 70168
+RIM-COD-Size-4: 63920
+RIM-COD-Size-3: 67124
+RIM-COD-Size-2: 72644
+RIM-COD-Size-1: 70500
+MIDlet-1: RegexRenamer,resources/icon.png,rim:foreground;WIDGET;
+MIDlet-Name: RegexRenamer
+RIM-COD-SHA1: 31 4d 4c d6 1c b1 17 42 4b f2 97 4c 70 92 64 88 b2 79 e3 c7
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_pdap,net_rim_bb_web_jse_api,net_rim_xml_org,net_rim_bb_browser_field2_api,net_rim_os,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_bbapi_browser,net_rim_bbapi_push,net_rim_bbapi_messagelist,net_rim_networkapi,net_rim_bb_browser_field_api,net_rim_xml,net_rim_locationapi
+MIDlet-Jar-Size: 1578103
+RIM-COD-URL-9: RegexRenamer-9.cod
+RIM-COD-URL-8: RegexRenamer-8.cod
+RIM-COD-URL-7: RegexRenamer-7.cod
+RIM-COD-URL-6: RegexRenamer-6.cod
+RIM-COD-URL-5: RegexRenamer-5.cod
+RIM-COD-URL-4: RegexRenamer-4.cod
+RIM-COD-URL-3: RegexRenamer-3.cod
+RIM-COD-URL-2: RegexRenamer-2.cod
+RIM-COD-URL-1: RegexRenamer-1.cod
+RIM-COD-URL-26: RegexRenamer-26.cod
+RIM-COD-Module-Name: RegexRenamer
+RIM-COD-URL-25: RegexRenamer-25.cod
+RIM-COD-URL-24: RegexRenamer-24.cod
+RIM-COD-URL-23: RegexRenamer-23.cod
+RIM-COD-URL-22: RegexRenamer-22.cod
+RIM-COD-URL-21: RegexRenamer-21.cod
+RIM-COD-URL-20: RegexRenamer-20.cod
