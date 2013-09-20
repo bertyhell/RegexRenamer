@@ -3,7 +3,7 @@ RegexRenamer
 <br/>
 rename files on your mobile device using regular expressions<br/>
 <br/>
-<img src="https://github.com/bertyhell/RegexRenamer/blob/master/screenshot-1.jpg?raw=true" alt="main gui" /><br/>
+<img src="https://github.com/bertyhell/RegexRenamer/blob/master/screenshot-1_low.jpg?raw=true" alt="main gui" /><br/>
 <br/>
 the renamer uses javascript regular expressions.<br/>
 never used regualr expressions before? try this easy tutorial:<br/>
